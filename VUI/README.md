@@ -47,10 +47,20 @@ This file file serves as your book's preface, a great place to describe your boo
 ## 2017：Learnability through Adaptive Discovery Tools in Voice User Interfaces
 
 ### 简介
-本文
+本文提出DiscoverCal是一个具有语音和视频界面的日历系统。这项研究的目的是调查适应性发现工具如何增加语音用户界面中的可学习性。我们使用日历测试为该项目设计的工具，因为它提供了足够的复杂性来引入适应并延长间歇性的可学习性。我们选择家庭作为使用的上下文。
+![enter description here](./images/屏幕快照 2018-04-21 20.01.29.png)
 
 ### 摘录
 1.  消费者使用Alexa, Siri, Cortana, 和 OK Google等语音助手的场合：39％在家中，51％在车上，1.3％在工作，6％在公共场合。
     * Carolina Milanesi. 2016. Voice Assistant Anyone? Yes please, but not in public! (June 2016). https://creativestrategies.com/voice-assistant-anyone-yes-please-but-not-in-public/
 
-2.  
+2.  为了改进VUI可发现性的设计，现有项目[7,9,17]利用视觉辅助来提高VUI中的可发现性，并对其中的关键设计元素进行了分类。
+    * 2016：What Can I Say?: Addressing User Experience Challenges of a Mobile Voice User Interface for Accessibility. 
+    * 2014： ALADIN: Demo of a Multimodal Adaptive Voice Interface. 
+    * 2014：JustSpeak: Enabling Universal Voice Control on Android. 
+![enter description here](./images/2018-04-21 20.09.53.png)
+
+3. 自适应图形用户界面（GUI）中应用的某些模式可以扩展到ADT的设计，例如减少初始使用后不需要的元素的可视化。其他模式包括调整内容和提示使用频率。研究表明，适应性接口不应该给用户减少控制的感觉。
+    *  2016：Planning Adaptive Mobile Experiences When Wireframing. 
+
+4. 
